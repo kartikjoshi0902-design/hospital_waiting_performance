@@ -1,0 +1,11 @@
+.streamlit/credentials.toml
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+.env
+venv/
+.venv/
+env/
+.idea/
+.vscode/
